@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "md5": "^2.3.0",
+    "puppeteer-stream": "^2.1.1",
+    "reverse-md5": "^0.0.5"
+  },
+  "name": "youtube-views",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node run src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricioHein/youtube-views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabricioHein/youtube-views/issues"
+  },
+  "homepage": "https://github.com/FabricioHein/youtube-views#readme",
+  "description": ""
+}
